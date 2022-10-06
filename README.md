@@ -1,11 +1,8 @@
 ### Olá! Eu sou o David Gomes ✋
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-gomes-2629a5232)
 
 ![DaviProg98 GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviProg98&show_icons=true&theme=radical)
-
 
 ## Tecnologias que eu uso no meu Dia.
 
